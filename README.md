@@ -119,7 +119,7 @@ console.log(chars);
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://www.github.com/favna/awesome-querystring/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://www.github.com/favna/awesome-zalgo/issues/new).
 
 ## License
 
