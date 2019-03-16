@@ -39,11 +39,12 @@
     "typescript": "^3.3.3"
   },
   "scripts": {
+    "test": "jest",
     "lint": "tslint --fix -p . -c ./tslint.json ./lib/*.ts",
     "clean": "rimraf dist/",
-    "prebuild": "yarn clean && yarn lint",
+    "prebuild": "yarn clean && yarn lint && yarn test",
     "build": "tsc",
-    "postbuild": "terser-folder ./dist -eo ./dist -x .js && copyfiles -u 1 ./docs/example.js ./dist/ && yarn jest",
+    "postbuild": "terser-folder ./dist -eo ./dist -x .js && copyfiles -u 1 ./docs/example.js ./dist/",
     "prepublishOnly": "yarn build"
   },
   "files": [

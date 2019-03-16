@@ -19,5 +19,5 @@ banish('ŝ̜̩͇̼̥̼́̏͢o͎͊͜ḿ̛̩̳̖͕̞̩̭ͪe͖̺̣̹̺̋̀͛̽͝ �
 // > some text
 
 // To log all the supported chars use:
-const chars = require('awesome-zalgo/dist/chars');
+const { chars } = require('awesome-zalgo/dist/chars');
 console.log(chars);

@@ -45,5 +45,5 @@ jobs:
           paths:
             - node_modules
       - run:
-          name: Build and test
-          command: yarn build
+          name: Run all tests
+          command: yarn test

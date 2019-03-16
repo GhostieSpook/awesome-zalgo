@@ -1,5 +1,5 @@
-const { zalgo, banish } = require('../dist');
-const chars = require('../dist/chars');
+const { zalgo, banish } = require('../lib');
+const { chars } = require('../lib/chars');
 
 describe('No option testing', () => {
     test('should zalgo normally', () => {
