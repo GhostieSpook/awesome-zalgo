@@ -9,7 +9,7 @@
   </p>
 <p>
   <a href="https://depfu.com/repos/Favna/awesome-zalgo"><img src="https://img.shields.io/depfu/Favna/awesome-zalgo.svg?style=flat-square" alt="Depfu" title="Depfu" /></a><!--
-  --><a href="https://github.com/Favna/awesome-zalgo/blob/awesome-zalgo/LICENSE.md"><img src="https://img.shields.io/github/license/favna/awesome-zalgo.svg?style=flat-square" alt="License" title="License"></a><!--
+  --><a href="https://github.com/Favna/awesome-zalgo/LICENSE.md"><img src="https://img.shields.io/github/license/favna/awesome-zalgo.svg?style=popout-square" alt="License" title="License"></a><!--
   --><a href="https://circleci.com/gh/Favna/awesome-zalgo/tree/master"><img src="https://img.shields.io/circleci/project/github/Favna/awesome-zalgo/master.svg?style=flat-square" alt="Build Status" title="Build Status" /></a>
 </p>
 
