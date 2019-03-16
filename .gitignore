@@ -1,0 +1,14 @@
+# Node modules need to be installed through yarn
+node_modules/
+
+# Any logs created
+*.log
+*.stackdump
+
+# IDE settings
+.idea/
+.vs/
+.vscode/
+
+# NPM Dist
+dist/
